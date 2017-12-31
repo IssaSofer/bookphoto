@@ -48,7 +48,7 @@ header{
 header .nav-side{
     position: fixed;
     background-color: #e11a27;
-    /*left: -100px;*/
+    left: -600px;
 }
 
 header .nav-side ul{
