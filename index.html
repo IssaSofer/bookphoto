@@ -277,7 +277,7 @@
                         </div>
                     </div>
                 </div>
-                <p class="center-align">&copy; 2018 Issa Sofer. All rights reserved</p>
+                <p class="center-align">&copy; 2018 Issa Safar. All rights reserved</p>
             </div>
         </footer>
         <script src="js/jquery-3.2.1.min.js"></script>
